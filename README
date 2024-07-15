@@ -1,0 +1,5 @@
+Benefits of JMS
+Asynchronous Communication: Producers and consumers can work independently, allowing for decoupled and asynchronous communication.
+Reliability: Ensures that messages are delivered reliably using features like message persistence and acknowledgment.
+Scalability: Supports scalable and distributed systems by decoupling the components.
+JMS is widely used in enterprise applications to ensure reliable and efficient communication between different parts of a distributed system.
